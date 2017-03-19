@@ -84,7 +84,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "#c0a375!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -133,7 +133,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">leather_goods</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-a\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\" aria-expanded=\"false\">Contact &nbsp;us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Expertise</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Canadian Gloves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Rigger Gloves.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Welding Gloves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Single Palm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Double Palm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Driving Gloves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Gents Wallets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ladies Wallets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ladies Handbags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Laptop Bags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Travel Bags</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-c\" aria-expanded=\"false\">Certificates</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-a\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\" aria-expanded=\"false\">Contact &nbsp;us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Products</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Canadian Gloves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Rigger Gloves.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Welding Gloves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Single Palm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Double Palm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Driving Gloves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Gents Wallets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ladies Wallets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ladies Handbags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Laptop Bags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Travel Bags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">New Item</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-c\" aria-expanded=\"false\">Reliablity</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -166,7 +166,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "We are experts in manufacturing leather<br>goods",
+          "title": "We are experts in leather<br>gloves",
           "text": "Your requirement = Our Solution<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"index.html#msg-box8-a\" data-toolbar=\"-mbrBtnMove\">About Us<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"index.html#gallery1-b\" data-toolbar=\"-mbrBtnMove\">Some of our products</a>"
         },
@@ -601,7 +601,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>TIN NO.\t19619704031\t\t\t<br>BANK Details::UNITED BANK OF INDIA \t\t\t<br>ADDRESS:\tNEW MANICKTALA KOLKATA: 700054\t\t\t\t\t<br>A/C NO: 0082210000985\t\t\t<br>IFSC CODE: UTBIONMT147<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@[company].com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>TIN NO.\t19619704031\t\t\t<br>BANKER'S NAME:UNITED BANK OF INDIA \t\t\t<br>ADDRESS:\tNEW MANICKTALA KOLKATA: 700054\t\t\t\t\t<br>A/C NO: 0082210000985\t\t\t<br>IFSC CODE: UTBIONMT147<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@[company].com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<div><font color=\"#bcbcbc\"><span style=\"font-size: 14px; line-height: 25px;\"></span></font></div>"
         },
         {
