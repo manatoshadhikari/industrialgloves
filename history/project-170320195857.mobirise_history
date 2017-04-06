@@ -119,7 +119,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/gloves-expert-logo-165x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-153x128.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
@@ -132,8 +132,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gloves Expert</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-a\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\" aria-expanded=\"false\">Contact &nbsp;us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Our Expertise</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Canadian Gloves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Rigger Gloves.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Welding Gloves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Single Palm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Double Palm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Driving Gloves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Gents Wallets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ladies Wallets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ladies Handbags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Laptop Bags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Travel Bags</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-c\" aria-expanded=\"false\">Certificates</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">leather_goods</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-a\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-6\" aria-expanded=\"false\">Contact &nbsp;us</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">Our Expertise</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Canadian Gloves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Rigger Gloves.</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Welding Gloves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Single Palm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Double Palm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Driving Gloves</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Gents Wallets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ladies Wallets</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Ladies Handbags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Laptop Bags</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Travel Bags</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features3-c\" aria-expanded=\"false\">Certificates</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -166,7 +166,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "We are experts in manufacturing leather<br>gloves&nbsp;",
+          "title": "We are experts in manufacturing leather<br>goods",
           "text": "Your requirement = Our Solution<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"index.html#msg-box8-a\" data-toolbar=\"-mbrBtnMove\">About Us<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"index.html#gallery1-b\" data-toolbar=\"-mbrBtnMove\">Some of our products</a>"
         },
@@ -185,7 +185,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 Gloves Expert"
+          "text": "Copyright (c) 2016 company name"
         },
         {
           "_tags": [
@@ -214,7 +214,17 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20170226-wa0011-2000x2669-800x1067.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20170226-wa0011-2000x2669.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20170226-wa0006-2000x2669-800x1067.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20170226-wa0006-2000x2669.jpg",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
@@ -324,13 +334,13 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20170226-wa0005-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-20170226-wa0005-2000x1498.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 0,
-            "showText": false,
+            "showText": true,
             "filter": false,
-            "bgColor": "#00a885",
+            "bgColor": "#FFFFFF",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -394,7 +404,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#00a885",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -514,7 +524,7 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#ffffff"
+              "color": "#232323"
             },
             "SMALL": {
               "color": "#efefef"
@@ -522,12 +532,12 @@
           },
           "_anchor": "form1-6",
           "_params": {
-            "labelsColor": "#ffffff",
+            "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/contactus-2000x651.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": true,
@@ -541,7 +551,7 @@
           "form": {
             "action": "manatosh.adhikari@yahoo.in",
             "alerts": {
-              "success": "Thank you for reaching to us."
+              "success": "Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -591,7 +601,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>TIN NO.\t19619704031\t\t\t<br>BANK Details::UNITED BANK OF INDIA \t\t\t<br>ADDRESS:\tNEW MANICKTALA KOLKATA: 700054\t\t\t\t\t<br>A/C NO: 0082210000985\t\t\t<br>IFSC CODE: UTBIONMT147<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@glovesexpert.in<br>\nPhone: +91 9986531951<br>\nFax: +1 (0) 000 0000 002",
+          "text1": "<strong>Address</strong><br>TIN NO.\t19619704031\t\t\t<br>BANK Details::UNITED BANK OF INDIA \t\t\t<br>ADDRESS:\tNEW MANICKTALA KOLKATA: 700054\t\t\t\t\t<br>A/C NO: 0082210000985\t\t\t<br>IFSC CODE: UTBIONMT147<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@[company].com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
           "text2": "<div><font color=\"#bcbcbc\"><span style=\"font-size: 14px; line-height: 25px;\"></span></font></div>"
         },
         {
