@@ -23,7 +23,10 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 17,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -395,7 +398,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160625-2000x2999-800x1199.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20160625-2000x2999.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img_20160625-2000x2999.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -405,7 +408,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160625-2000x2550-800x1020.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20160625-2000x2550.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img_20160625-2000x2550.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -415,7 +418,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160625-2000x2860-800x1144.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20160625-2000x2860.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img_20160625-2000x2860.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -425,7 +428,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160625-121534326-burst000-cover-top-2000x3052-800x1220.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-20160625-121534326-burst000-cover-top-2000x3052.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img_20160625_121534326_burst000_cover_top-2000x3052.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -577,7 +580,7 @@
           "title": "We love to hear from you.",
           "subtitle": "Shape your &nbsp;industrial protective needs with our expertise .",
           "form": {
-            "action": "support@glovesexpert.in",
+            "action": "manatosh.adhikari@yahoo.in",
             "alerts": {
               "success": "Thank you for reaching to us."
             },
