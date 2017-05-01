@@ -345,14 +345,13 @@
               "color": "#fff"
             },
             ".lead H4": {
-              "color": "#ffffff",
+              "color": "#cccccc",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "17px"
             },
             ".lead DIV": {
-              "color": "#ffffff",
-              "text-align": "center"
+              "color": "#cccccc"
             }
           },
           "_tags": [
@@ -361,8 +360,8 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-a",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/11392920-867782749962089-1434921030312403149-o-2000x1324.jpg",
@@ -380,7 +379,7 @@
             "showButton": false
           },
           "title": "About us<br>",
-          "text": "<h4><span style=\"font-weight: normal;\"><i>Your requirement = Our Solution</i></span></h4><h4><span style=\"font-weight: normal;\"><br></span></h4><h4><span style=\"line-height: 1.1;\">Expertise: Industrial leather hand gloves</span><br></h4><div><span style=\"font-weight: normal;\">Any type of Industrial Gloves we are manufacturing that is best in class.</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">We can offer the BEST DEAL:</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Best Quality at Best Possible price within the Fastest possible timing.</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5; color: inherit; font-family: Montserrat, sans-serif; font-weight: 600; letter-spacing: -1px;\">How??</span><br></div><div><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Export of industrial leather gloves takes place predominantly from the easter part of INDIA. But there are very few successfull manufacturing units exits for long. Maximun of the exporters are traders not manufacturers. We are 100% manufacturers and exporter of our goods and that's why we can assure best possible deal...best quality ....at best price within earliest possible production time.</span></p><h1><span style=\"font-size: 1.07rem; line-height: 1.5;\">Reason for Successfully Growing over the Years.</span></h1><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Owned Infrastructure&gt;&gt;&gt; Adequate Skilled labours &gt;&gt;&gt; Expertise&gt;&gt;&gt; Raw Materials &gt;&gt;&gt; Monetary Capacity</i></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">This part of India is having the skilled labours but we add the power of high end Infrastructure, expertise, and monetray capability and that result into the Best of products within the fastest possible production timing. We can complete the Bulk orders with very ease.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><i>Infrastructure.</i></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">We have one of the biggest manufacturing unit that is 100% owned with all the necessary equipments, Machineries and facilities like owned transformers, to facilitate production without any hindrances, with all the necessary govt certificates</span></p><p><a href=\"index.html#gallery2-f\" class=\"text-white\">Click to view our Infrasturcture and production unit</a>.</p><p><i>Skilled Labours.</i></p><p>We have established our production unit in the middle of the community of skilled workers, specialised in the production of Leather items. It helps in &nbsp;adequate availablity of works on timely manner.Labours also enjoy working with us for long, as they earn their livelihood nearer to their home.</p><p><i>Expertise.</i></p><p><i>We have started our manufacturing unit since 2006 and supplying the required type of Gloves and other leather items since than to big export houses in India as well across the Globe. So we know how to fulfill your requirements.</i></p><p><i>Raw Material.</i></p><p><i>We are having our authorized tanneries providing us the best of the raw materials since our initial days.</i></p><p><i>Monetary Capacity.</i></p><p><i>We are one of the renowned Manufacturer in the eyes of Banks so we never had issues in receiving fund from our Banks which helps in continues production without obstacles due to fund flow.</i></p><p><i><br></i></p><p><br></p></div>",
+          "text": "<h4><span style=\"font-weight: normal;\"><i>Your requirement = Our Solution</i></span></h4><h4><span style=\"font-weight: normal;\"><br></span></h4><h4><span style=\"line-height: 1.1;\">Expertise: Industrial leather hand gloves</span><br></h4><div><span style=\"font-weight: normal;\">Any type of Industrial Gloves we are manufacturing that is best in class.</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">We can offer the BEST DEAL:</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Best Quality at Best Possible price within the Fastest possible timing.</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">How??</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">We have one of the biggest manufacturing unit that is 100% Owned with all the necessary equipments and facilities like owned transformers, to facilitate production without any hindrances, with all the necessary govt certificates.</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><b>A brief of our ever growing Industry</b></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">EXPORT OF INDUSTRIAL LEATHER GLOVES TAKES PLACE PREDOMINANTLY FROM THE EASTERN PART OF INDIA.</span><br></div><div><span style=\"font-weight: normal;\">As a matter of fact, the region accounts for more than 90% of Country’s export of Industrial Leather Gloves, within the eastern fringes of Kolkata - the City of Joy - housing some of the most dynamic and vibrant exporters of the product.</span></div><div><span style=\"font-weight: normal;\">The production of industrial gloves in India is estimated at around 150 million pairs annually and the industry employs a huge number of economically challenged, yet skillful people who constitute the bulk of the industry’s workforce. The Indian Leather Industry has been set a target of achieving a turnover of USD 27 billion by 2020, and experts opine that the Industrial Leather Gloves manufacturing segment (and other safety products) can contribute in a significant way in achieving the target.</span></div><div><span style=\"font-weight: normal;\">At [COMPANY NAME], we are not only focused on doing our bit for the achievements of the industry targets but are also well equipped to do so.</span></div><div><span style=\"font-weight: normal;\"><br></span></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -393,36 +392,6 @@
             "paddingTop": 4,
             "paddingBottom": "3",
             "images": [
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20160625-2-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_20160625-2-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20160625-1-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_20160625-1-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20160625-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_20160625-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
               {
                 "tags": "Awesome",
                 "playVideo": false,
@@ -461,27 +430,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img-20160625-121534326-burst000-cover-top-2000x3052-800x1220.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img_20160625_121534326_burst000_cover_top-2000x3052.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20160625-125113709-hdr-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_20160625_125113709_hdr-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-20160625-125120159-burst000-cover-top-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_20160625_125120159_burst000_cover_top-2000x1125.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "1",
@@ -688,7 +637,7 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>TIN NO.\t19619704031\t\t\t<br>BANK Details::UNITED BANK OF INDIA \t\t\t<br>ADDRESS:\tNEW MANICKTALA KOLKATA: 700054\t\t\t\t\t<br>A/C NO: 0082210000985\t\t\t<br>IFSC CODE: UTBIONMT147<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@glovesexpert.in<br>Phone: +91 70034 73011&nbsp;&nbsp;<br>",
+          "text1": "<strong>Address</strong><br>TIN NO.\t19619704031\t\t\t<br>BANK Details::UNITED BANK OF INDIA \t\t\t<br>ADDRESS:\tNEW MANICKTALA KOLKATA: 700054\t\t\t\t\t<br>A/C NO: 0082210000985\t\t\t<br>IFSC CODE: UTBIONMT147<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@glovesexpert.in<br>\nPhone: +91 9831074805&nbsp;<br>",
           "text2": "<div><font color=\"#bcbcbc\"><span style=\"font-size: 14px; line-height: 25px;\"></span></font></div>"
         }
       ]

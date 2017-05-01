@@ -490,12 +490,13 @@ h6,
   color: #fff;
 }
 #msg-box8-a .lead H4 {
-  color: #cccccc;
+  color: #ffffff;
   font-family: 'Lora', serif;
   font-size: 17px;
 }
 #msg-box8-a .lead DIV {
-  color: #cccccc;
+  color: #ffffff;
+  text-align: center;
 }
 #form1-6 .form-control-label {
   color: #ffffff;
